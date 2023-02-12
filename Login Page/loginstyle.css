@@ -1,0 +1,841 @@
+	.mediaViewInfo {
+		--web-view-name: Log in Page - 1366px – 1;
+		--web-view-id: Log_in_Page_-_1366px__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Log_in_Page_-_1366px__1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Log_in_Page_-_1366px__1 {
+		position: absolute;
+		width: 1920px;
+		height: 1482px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Log in Page - 1366px – 1;
+		--web-view-id: Log_in_Page_-_1366px__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#Background {
+		fill: rgba(196,236,254,0.302);
+	}
+	.Background {
+		position: absolute;
+		overflow: visible;
+		width: 1328px;
+		height: 779px;
+		left: 296px;
+		top: 108px;
+	}
+	#Lower_banner_info {
+		position: absolute;
+		width: 1920px;
+		height: 596px;
+		left: 1px;
+		top: 887px;
+		overflow: visible;
+	}
+	#Bottom_banner {
+		fill: rgba(34,199,165,1);
+	}
+	.Bottom_banner {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 485px;
+		left: 0px;
+		top: 0px;
+	}
+	#Call_Us_1876_800-WERX9379 {
+		left: 1261px;
+		top: 358px;
+		position: absolute;
+		overflow: visible;
+		width: 334px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#engineeringgigwerxco {
+		left: 1261px;
+		top: 327px;
+		position: absolute;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Send_your_technical_queries_to {
+		left: 1261px;
+		top: 296px;
+		position: absolute;
+		overflow: visible;
+		width: 303px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#admingigwerxco {
+		left: 1261px;
+		top: 265px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Send_your_general_queries_to {
+		left: 1261px;
+		top: 234px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#GigWerx {
+		display: none;
+		left: 1261px;
+		top: 129px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(255,255,255,1);
+	}
+	#Connect_with_us {
+		left: 1260px;
+		top: 77px;
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#About_GigWerx {
+		left: 692px;
+		top: 155px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#About {
+		left: 696px;
+		top: 77px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Social_Media {
+		position: absolute;
+		width: 162px;
+		height: 25.374px;
+		left: 296px;
+		top: 345px;
+		overflow: visible;
+	}
+	#icons8-youtube {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-youtube {
+		overflow: visible;
+		position: absolute;
+		width: 26px;
+		height: 22.002px;
+		left: 136px;
+		top: 3.372px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-instagram {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-instagram {
+		overflow: visible;
+		position: absolute;
+		width: 24px;
+		height: 24px;
+		left: 102px;
+		top: 1.374px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-twitter {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-twitter {
+		overflow: visible;
+		position: absolute;
+		width: 26.001px;
+		height: 21.129px;
+		left: 66px;
+		top: 3.245px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-linkedin-60 {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-linkedin-60 {
+		overflow: visible;
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 34px;
+		top: 2.374px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-facebook_1 {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-facebook_1 {
+		overflow: visible;
+		position: absolute;
+		width: 24px;
+		height: 23.877px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Blog {
+		left: 296px;
+		top: 283px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Testimonials {
+		left: 296px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#How_it_works {
+		left: 296px;
+		top: 155px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Discover {
+		left: 296px;
+		top: 77px;
+		position: absolute;
+		overflow: visible;
+		width: 136px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Top_banner {
+		fill: rgba(0,0,0,1);
+	}
+	.Top_banner {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 109px;
+		left: 0px;
+		top: 485px;
+	}
+	#GigWerx_-_Powered_by_GigLancer {
+		left: 1251px;
+		top: 527px;
+		position: absolute;
+		overflow: visible;
+		width: 343px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#GigWerx_bx {
+		display: none;
+		left: 296px;
+		top: 516px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(255,255,255,1);
+	}
+	#GigWerx_logo_white {
+		display: none;
+		position: absolute;
+		width: 240px;
+		height: 116.129px;
+		left: 1258px;
+		top: 111.871px;
+		overflow: visible;
+	}
+	#GigWerx_logo_white_bz {
+		display: none;
+		position: absolute;
+		width: 240px;
+		height: 116.129px;
+		left: 296px;
+		top: 476.871px;
+		overflow: visible;
+	}
+	#GigWerx_BDCI_white {
+		position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 1258px;
+		top: 111px;
+		overflow: visible;
+	}
+	#GigWerx_BDCI_white_b {
+		position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 300px;
+		top: 476px;
+		overflow: visible;
+	}
+    
+	#Log_In_Area {
+		position: absolute;
+		width: 755px;
+		height: 584px;
+		left: 583px;
+		top: 202px;
+        background-color:white; 
+/*		overflow: visible;*/
+        filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.161));
+	}    
+/*	#Forget_password_box {*/
+/*		fill: rgba(255,255,255,1);*/
+/*	}*/
+/*
+	.Forget_password_box {
+		filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		position: absolute;
+		width: 785px;
+		height: 149px;
+		left: 0px;
+		top: 465px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+*/
+	#Already_have_an_account {
+		left: 50px;
+		top: 512px;
+		position: absolute;
+		overflow: visible;
+		width: 253px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Forget_Password {
+		left: 530px;
+		top: 512px;
+		position: absolute;
+		overflow: visible;
+		width: 177px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+
+	.Log_In_box {
+/*		fill: rgba(255,255,255,1);*/
+        background-color: white;
+		filter: drop-shadow(0px 2px rgba(0, 0, 0, 0.161));
+/*		position: absolute;*/
+		overflow: visible;
+		width: 755px;
+		height: 465px;
+		left: 0px;
+		top: 0px;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: Log_in_Page___Sample___1366px.html;
+	}
+	Button {
+	    position: absolute;
+		width: 370px;
+		height: 51px;
+		left: 192px;
+		top: 338px;
+/*		overflow: visible;
+		fill: rgba(54,139,251,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+*/
+	}
+	Button {
+/*		position: absolute;*/
+/*		overflow: visible;*/
+		width: 370px;
+		height: 51px;
+/*		left: 0px;*/
+/*		top: 0px;*/
+        background-color: rgba(54,139,251,1);
+        border-radius: 20px;
+        color: rgba(255,255,255,1);
+        font-family: Roboto, Segoe UI;
+        font-weight: bold;
+        font-size: 22px;  
+        cursor: pointer;
+}
+
+/*
+	#Log_In {
+		left: 145px;
+		top: 11px;
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+*/
+	#Remember_me {
+		left: 97px;
+		top: 291px;
+		position: absolute;
+		overflow: visible;
+		width: 149px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+/*
+	#Rectangle_21 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+*/
+	#Check_box {
+		position: absolute;
+/*		overflow: visible;*/
+		width: 20px;
+		height: 20px;
+		left: 72px;
+		top: 294px;
+    }
+	.Password_box {
+		position: absolute;
+		overflow: visible;
+		left: 72px;
+		top: 207px;
+/*      left: 97px;*/
+/*		top: 223px;*/
+/*		position: absolute;*/
+/*		overflow: visible;*/
+/*		width: 98px;*/
+/*		white-space: nowrap;*/
+/*		text-align: left;*/
+
+	}
+    input{
+        padding : 20px;
+        border-width: .5px;
+        border-style: solid;
+        border-color: #c9c9c9;
+        border-radius: 5px;
+        background-color: rgba(245, 244, 244, 1);
+        font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+        width: 610px;
+		height: 57px;
+        
+    }
+    input::placeholder{
+        font-family: Nunito;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 18px;
+        }
+
+
+/*	#Password {
+        
+		left: 97px;
+		top: 223px;
+		position: absolute;
+		overflow: visible;
+		width: 98px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		
+	}
+*/
+/*
+	#Username_box {
+        fill: rgba(245, 244, 244, 1);
+		fill: rgba(245,244,244,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+*/
+	.Username_box {
+		position: absolute;
+		overflow: visible;
+		width: 610px;
+		height: 57px;
+		left: 72px;
+		top: 125px;
+/*        left: 97px;*/
+/*		top: 141px;*/
+/*		position: absolute;*/
+/*		overflow: visible;*/
+/*		width: 272px;*/
+/*		white-space: nowrap;*/
+/*		text-align: left;*/
+/*
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+*/
+/*		color: rgba(0,0,0,0.502);*/
+	}
+
+
+/*
+	#Username_or_Email_address {
+		left: 97px;
+		top: 141px;
+		position: absolute;
+		overflow: visible;
+		width: 272px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,0.502);
+	}
+*/
+
+
+
+	#Log_into_your_Account {
+		left: 206px;
+		top: 29px;
+		position: absolute;
+		overflow: visible;
+		width: 341px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(0,0,0,1);
+	}
+	#Top_Banner {
+		position: absolute;
+		width: 1920px;
+		height: 120px;
+		left: 0px;
+		top: -9px;
+		overflow: visible;
+	}
+	#Top_banner_ci {
+		fill: rgba(34,199,165,1);
+	}
+	.Top_banner_ci {
+		filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.2));
+		position: absolute;
+		overflow: visible;
+		width: 1980px;
+		height: 169px;
+		left: 0px;
+		top: 8px;
+	}
+	#Sign_up {
+		left: 1810px;
+		top: 52px;
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Login {
+		left: 1729px;
+		top: 52px;
+		position: absolute;
+		overflow: visible;
+		width: 56px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#My_Account {
+		left: 1164px;
+		top: 52px;
+		position: absolute;
+		overflow: visible;
+		width: 118px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Recruiters {
+		left: 994px;
+		top: 52px;
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Freelancers {
+		left: 811px;
+		top: 52px;
+		position: absolute;
+		overflow: visible;
+		width: 115px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+	}
+	#Search_bar {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Search_bar {
+		position: absolute;
+		overflow: visible;
+		width: 248px;
+		height: 46px;
+		left: 509px;
+		top: 40px;
+	}
+	#downward-arrow {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 556px;
+		top: 53px;
+		overflow: visible;
+	}
+	#search {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 526px;
+		top: 50px;
+		overflow: visible;
+	}
+	#Find_Freelancers {
+		left: 585px;
+		top: 50px;
+		position: absolute;
+		overflow: visible;
+		width: 163px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(0,0,0,0.502);
+	}
+	#GigWerx_cs {
+		display: none;
+		left: 295px;
+		top: 34px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(0,0,0,1);
+	}
+	#GigWerx_logo_black {
+		display: none;
+		position: absolute;
+		width: 240px;
+		height: 116.129px;
+		left: 186px;
+		top: 4.435px;
+		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: Homepage___1366px.html;
+		cursor: pointer;
+	}
+	#GigWerx_BDCI {
+		position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 186px;
+		top: 0px;
+		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: Homepage___1366px.html;
+		cursor: pointer;
+	}
+</style>
