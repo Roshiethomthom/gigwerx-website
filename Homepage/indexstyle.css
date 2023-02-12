@@ -1,0 +1,1065 @@
+	.mediaViewInfo {
+		--web-view-name: Homepage;
+		--web-view-id: Homepage;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: index;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+        scroll-behavior: smooth;
+	}
+
+	#Website-Design-Background-1 {
+		position: absolute;
+        width: 1920px;
+		height: 747px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+
+	#Background {
+		fill: rgba(196,236,254,0.302);
+	}
+	.Background {
+        position: absolute;
+		overflow: visible;
+		width: 1328px;
+		height: 889px;
+		left: 296px;
+		top: 747px;
+	}
+	#Lower_banner_group {
+		position: absolute;
+		width: 1920px;
+		height: 596px;
+		left: 0px;
+		top: 1636px;
+		overflow: visible;
+	}
+	#Bottom_banner {
+		fill: rgba(34,199,165,1);
+	}
+	.Bottom_banner {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 485px;
+		left: 0px;
+		top: 0px;
+	}
+	#Call_Us_1876_800-WERX9379 {
+		left: 1261px;
+		top: 358px;
+		position: absolute;
+		overflow: visible;
+		width: 334px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#engineeringgigwerxco {
+		left: 1261px;
+		top: 327px;
+		position: absolute;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Send_your_technical_queries_to {
+		left: 1261px;
+		top: 296px;
+		position: absolute;
+		overflow: visible;
+		width: 303px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#admingigwerxco {
+		left: 1261px;
+		top: 265px;
+		position: absolute;
+		overflow: visible;
+		width: 187px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Send_your_general_queries_to {
+		left: 1261px;
+		top: 234px;
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#GigWerx {
+		display: none;
+		left: 1261px;
+		top: 129px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(255,255,255,1);
+	}
+	#Connect_with_us {
+		left: 1260px;
+		top: 77px;
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#About_GigWerx {
+		left: 692px;
+		top: 155px;
+		position: absolute;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#About {
+		left: 696px;
+		top: 77px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Social_Media {
+		position: absolute;
+		width: 162px;
+		height: 25.374px;
+		left: 296px;
+		top: 345px;
+		overflow: visible;
+	}
+	#icons8-youtube {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-youtube {
+		overflow: visible;
+		position: absolute;
+		width: 26px;
+		height: 22.002px;
+		left: 136px;
+		top: 3.372px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-instagram {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-instagram {
+		overflow: visible;
+		position: absolute;
+		width: 24px;
+		height: 24px;
+		left: 102px;
+		top: 1.374px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-twitter {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-twitter {
+		overflow: visible;
+		position: absolute;
+		width: 26.001px;
+		height: 21.129px;
+		left: 66px;
+		top: 3.245px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-linkedin-60 {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-linkedin-60 {
+		overflow: visible;
+		position: absolute;
+		width: 22px;
+		height: 22px;
+		left: 34px;
+		top: 2.374px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#icons8-facebook_1 {
+		fill: rgba(0,0,0,1);
+	}
+	.icons8-facebook_1 {
+		overflow: visible;
+		position: absolute;
+		width: 24px;
+		height: 23.877px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Blog {
+		left: 296px;
+		top: 283px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Testimonials {
+		left: 296px;
+		top: 219px;
+		position: absolute;
+		overflow: visible;
+		width: 125px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#How_it_works {
+		left: 296px;
+		top: 155px;
+		position: absolute;
+		overflow: visible;
+		width: 132px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Discover {
+		left: 296px;
+		top: 77px;
+		position: absolute;
+		overflow: visible;
+		width: 136px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+
+	#Lower_banner {
+		fill: rgba(0,0,0,1);
+	}
+	.Lower_banner {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 109px;
+		left: 0px;
+		top: 485px;
+
+	}
+	#GigWerx_-_Powered_by_GigLancer {
+		left: 1251px;
+		top: 527px;
+		position: absolute;
+		overflow: visible;
+		width: 343px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#GigWerx_bz {
+		display: none;
+		left: 296px;
+		top: 516px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(255,255,255,1);
+	}
+	#GigWerx_logo_white {
+		display: none;
+		position: absolute;
+		width: 240px;
+		height: 116.129px;
+		left: 1258px;
+		top: 111.871px;
+		overflow: visible;
+	}
+	#GigWerx_logo_white_b {
+		display: none;
+		position: absolute;
+		width: 240px;
+		height: 116.129px;
+		left: 296px;
+		top: 476.871px;
+		overflow: visible;
+	}
+	#GigWerx_BDCI_white {
+		position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 1258px;
+		top: 111px;
+		overflow: visible;
+	}
+	#GigWerx_BDCI_white_b {
+		position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 300px;
+		top: 476px;
+		overflow: visible;
+	}
+	#Middle_info {
+		position: absolute;
+		width: 1214px;
+		height: 754px;
+		left: 353px;
+		top: 813px;
+		overflow: visible;
+	}
+	#Find_freelancing_jobs_for_your {
+		left: 163.5px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 875px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(3,3,3,1);
+	}
+	#Ellipse_1 {
+		fill: rgba(179,17,226,0.102);
+	}
+	.Ellipse_1 {
+		width: 186px;
+		height: 186px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(-349px, -813px) matrix(1,0,0,1,579,965) rotate(-1deg);
+		transform-origin: center;
+	}
+	#Ellipse_2 {
+		fill: rgba(179,17,226,0.102);
+	}
+	.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		height: 186px;
+		left: 1028px;
+		top: 152px;
+	}
+	#Ellipse_3 {
+		fill: rgba(179,17,226,0.102);
+	}
+	.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		height: 186px;
+		left: 762px;
+		top: 152px;
+	}
+	#Ellipse_4 {
+		fill: rgba(179,17,226,0.102);
+	}
+	.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		height: 186px;
+		left: 496px;
+		top: 152px;
+	}
+	#How_to_use_GigWerx {
+		left: 0px;
+		top: 197px;
+		position: absolute;
+		overflow: visible;
+		width: 202px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(3,3,3,1);
+	}
+	#Hire_for__any_Scope {
+		left: 0px;
+		top: 613px;
+		position: absolute;
+		overflow: visible;
+		width: 185px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(3,3,3,1);
+	}
+	#Detailed_Project {
+		left: 271px;
+		top: 619px;
+		position: absolute;
+		overflow: visible;
+		width: 247px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(3,3,3,1);
+	}
+	#Short_Term {
+		left: 993px;
+		top: 619px;
+		position: absolute;
+		overflow: visible;
+		width: 173px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(3,3,3,1);
+	}
+	#Long_Term {
+		left: 645px;
+		top: 619px;
+		position: absolute;
+		overflow: visible;
+		width: 167px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(3,3,3,1);
+	}
+	#Find_the_right_experts__and_ag {
+		left: 271px;
+		top: 682px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Secure_a_team_of_skilled_exper {
+		left: 645px;
+		top: 682px;
+		position: absolute;
+		overflow: visible;
+		width: 223px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Access_to_diverse_skills_for_s {
+		left: 993px;
+		top: 682px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Tell_us_what_you_need_Well_con {
+		left: 233px;
+		top: 439px;
+		position: absolute;
+		overflow: visible;
+		width: 182px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Post {
+		left: 277px;
+		top: 364px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(3,3,3,1);
+	}
+	#notes {
+		position: absolute;
+		width: 150px;
+		height: 150px;
+		left: 248px;
+		top: 170px;
+		overflow: visible;
+	}
+	#Get_compare_review_proposals_a {
+		left: 502px;
+		top: 439px;
+		position: absolute;
+		overflow: visible;
+		width: 198px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Bid {
+		left: 568px;
+		top: 364px;
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(3,3,3,1);
+	}
+	#bid {
+		position: absolute;
+		width: 150px;
+		height: 150px;
+		left: 514px;
+		top: 170px;
+		overflow: visible;
+	}
+	#Several_payments_options_avail {
+		left: 1039px;
+		top: 439px;
+		position: absolute;
+		overflow: visible;
+		width: 165px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Pay {
+		left: 1084px;
+		top: 364px;
+		position: absolute;
+		overflow: visible;
+		width: 75px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(3,3,3,1);
+	}
+	#pay {
+		position: absolute;
+		width: 150px;
+		height: 150px;
+		left: 1046px;
+		top: 170px;
+		overflow: visible;
+	}
+	#Message_and_share_files_with_t {
+		left: 766px;
+		top: 439px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(3,3,3,1);
+	}
+	#Collaborate {
+		left: 739px;
+		top: 364px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(3,3,3,1);
+	}
+	#deal {
+		position: absolute;
+		width: 150px;
+		height: 150px;
+		left: 780px;
+		top: 170px;
+		overflow: visible;
+	}
+	#Recruiter_button_group {
+		position: absolute;
+		width: 290px;
+		height: 162.767px;
+		left: 1025px;
+		top: 417.233px;
+		overflow: visible;
+        transition: all .3s ease-in-out;
+        cursor: pointer;
+    }
+    #Recruiter_button_group:hover { 
+        transform: scale(1.1); 
+    }
+	.Recruiter_button {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+        cursor: pointer;
+	}
+	.Recruiter_button {
+		position: absolute;
+		overflow: visible;
+		width: 290px;
+		height: 58px;
+		left: 0px;
+		top: 104.767px;
+        border-radius: 30px;
+        font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(34,199,165,1);
+/*		left: 54px;
+/*		top: 115.767px;
+/*		position: absolute;*/
+/*		overflow: visible;*/
+/*		width: 183px;*/
+/*		white-space: nowrap;*/
+/*		text-align: left;*/
+	}
+	#Path_2 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_2 {
+		overflow: visible;
+		position: absolute;
+		width: 40.327px;
+		height: 45.669px;
+		left: 81.191px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_3 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_3 {
+		overflow: visible;
+		position: absolute;
+		width: 40.322px;
+		height: 45.667px;
+		left: 124.436px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_4 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_4 {
+		overflow: visible;
+		position: absolute;
+		width: 40.327px;
+		height: 45.669px;
+		left: 167.673px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_5 {
+		fill: rgba(34,199,165,1);
+	}
+	.Path_5 {
+		overflow: visible;
+		position: absolute;
+		width: 58.781px;
+		height: 72.103px;
+		left: 121.206px;
+		top: 40.664px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Freelancer_button_group {
+		position: absolute;
+		width: 370px;
+		height: 197px;
+		left: 525px;
+		top: 383px;
+		overflow: visible;
+        transition: all .3s ease-in-out;
+        cursor: pointer;
+	}
+    #Freelancer_button_group:hover { 
+        transform: scale(1.1); 
+    }
+	.Freelance_button {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(112,112,112,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+        cursor: pointer;
+        
+	}
+	.Freelance_button {
+		position: absolute;
+/*		overflow: visible;*/
+        width: 370px;
+		height: 58px;
+		left: 0px;
+		top: 139px;   
+        border-radius: 30px;
+        font-family: Roboto;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(34,199,165,1);
+/*		left: 52px;*/
+/*		top: 150px;*/
+/*		position: absolute;*/
+/*		overflow: visible;*/
+/*		width: 267px;*/
+/*		white-space: nowrap;*/
+/*		text-align: left;*/
+	}
+
+	#path851 {
+		fill: rgba(34,199,165,1);
+	}
+	.path851 {
+		overflow: visible;
+		position: absolute;
+		width: 150px;
+		height: 150px;
+		left: 110px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#white {
+		fill: rgba(255,255,255,1);
+	}
+	.white {
+		overflow: visible;
+		position: absolute;
+		width: 92.52px;
+		height: 97.927px;
+		left: 135.077px;
+		top: 19.523px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Search_for_freelancing_jobs_on {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.8));
+		left: 622px;
+		top: 319px;
+		position: absolute;
+		overflow: visible;
+		width: 677px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(255,255,255,1);
+	}
+	#Find_the_perfect_entrepreneur_ {
+		filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.8));
+		left: 490px;
+		top: 235px;
+		position: absolute;
+		overflow: visible;
+		width: 942px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 45px;
+		color: rgba(255,255,255,1);
+	}
+    #top-banner{
+        width: 1920px;
+        height: 120px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: fixed;
+        z-index: 99;
+        box-shadow: 0 0 10px #000;
+        background: rgba(34,199,165,1);
+    }
+
+
+   /*ul{
+		left: 1110px;
+		white-space: nowrap;
+		text-align: right;
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+        left: 1000px;
+        display:inline-block;
+        position: fixed;
+        top: 30px;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+	}*/
+
+    nav{
+        display: inline-block;
+        flex: 1;
+        white-space: nowrap;
+        }
+        
+    .Nav1{
+/*		white-space: nowrap;*/
+/*		text-align: right;*/
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+        left: 900px;
+        display:inline-block;
+        position: fixed;
+        top: 35px;
+        list-style-type: none;
+        margin-left: 10px;
+        padding: 0;
+    }
+    .Nav2{
+/*		white-space: nowrap;*/
+/*		text-align: right;*/
+		font-family: Nunito;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 22px;
+		color: rgba(0,0,0,1);
+        left: 1670px;
+        display:inline-block;
+        position: fixed;
+        top: 35px;
+        list-style-type: none;
+        margin: 0px;
+        padding: 0;
+    }
+    
+    li {
+        display: inline-block;
+        
+    }
+    a{
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 12px 16px;
+        text-decoration: none;
+    }
+
+    li a:hover{
+        color: white;    
+    }
+
+
+    .search-button {
+        align-items: center;
+        display: flex;
+        height: 50px;
+        width: 50px;
+        border-radius: 0px 20px 20px 0px;
+        cursor: pointer;
+        border-width: 1px;
+        border-style: solid;
+        border-color: lightgray;
+    }
+
+	.search_icon {
+        margin-left: 8px;
+
+    }
+    .srch::placeholder{
+        font-family: Nunito;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 18px;
+    }
+
+    .srch   {
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        font-family: Nunito;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+        border-radius: 20px 0px 0px 20px;
+        box-shadow: inset 1px 2px 3px rgba(0,0,0,0.25);
+    }
+
+	.search-bar {
+        align-items: center;
+        position: fixed;
+        flex: 1;
+        display: flex;
+		width: 400px;
+        height: 50px;
+		left: 500px;
+		top: 40px;
+    }
+/*
+	#downward-arrow {
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 556px;
+		top: 53px;
+		overflow: visible;
+	}
+*/
+
+	.logo-holder {
+        flex: 1;
+        display: flex;
+        position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 186px;
+		top: 0px;
+		overflow: visible;
+        margin-right: 30px;
+        position: fixed;
+        display: inline-block;
+        float: left;
+	}
+
+	#logo {
+        display: inline-block;
+		position: absolute;
+		width: 240px;
+		height: 120px;
+		left: 186px;
+		top: 0px;
+		overflow: visible;
+        position: fixed;
+	}
